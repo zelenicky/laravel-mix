@@ -10,3 +10,8 @@ npm i
 ```
 php artisan serve
 ```
+
+## MIX
+```
+npm run watch
+```
