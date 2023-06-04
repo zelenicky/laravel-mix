@@ -1,7 +1,7 @@
 {
     "name": "laravel10/mixv6",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework example MIX",
     "keywords": [
         "framework",
         "laravel"
@@ -64,6 +64,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "minimum-stability": "dev",
+    "prefer-stable": false
 }
