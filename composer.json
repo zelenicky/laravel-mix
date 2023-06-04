@@ -1,6 +1,7 @@
 {
     "name": "laravel10/mixv6",
     "type": "project",
+    "minimum-stability": "dev",
     "description": "The Laravel Framework example MIX",
     "keywords": [
         "framework",
